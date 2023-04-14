@@ -1,0 +1,4 @@
+CHIP_FAMILY = SAMD21
+CHIP_VARIANT = SAMD21E18A
+BOARD_NAME = QTPyM0
+LINKER_SCRIPT=scripts/samd21e18a_flash_with_bootloader.ld
